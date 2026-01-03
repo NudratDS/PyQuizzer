@@ -55,5 +55,3 @@ This project is open-source and free to use.
 
 
 ---
-
-If you want, I can help you prepare the GitHub repo structure and commits for all three projects! How do you want to proceed?
