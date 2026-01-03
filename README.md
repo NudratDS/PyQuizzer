@@ -15,7 +15,7 @@ A command-line Python quiz application that loads questions from a JSON file and
 
 1. Clone this repository or download `PyQuizzer.py` and `questions.json`.
 2. Run the quiz script:
-
+ 
    ```bash
    python PyQuizzer.py
 How to Add Questions
